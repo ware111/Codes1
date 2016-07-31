@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planet">
+        <item>火星</item>
+        <item>水星</item>
+        <item>土星</item>
+        <item>木星</item>
+        <item>地球</item>
+        <item>月球</item>
+        <item>天王星</item>
+        <item>彗星</item>
+    </string-array>
+</resources>
