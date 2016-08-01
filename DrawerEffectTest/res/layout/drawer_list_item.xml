@@ -25,3 +25,5 @@
     android:textColor="#fff"
     android:background="?android:attr/activatedBackgroundIndicator"
     android:minHeight="?android:attr/listPreferredItemHeightSmall"/>
+
+    <!-- background="?android:attr/activatedBackgroundIndicator"此项是给textview留下被选中过得效果 -->
